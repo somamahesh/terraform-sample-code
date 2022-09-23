@@ -8,7 +8,7 @@ variable "hw" {
 }
 
 variable "name" {
-  default = "mahesh-server1"
+  default = "mahesh-server2"
 }
 
 variable "env" {
